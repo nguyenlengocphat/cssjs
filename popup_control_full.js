@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://nontam.com' target='_blank'><img src='http://media.bizwebmedia.net/sites/95616/Upload/Gallery/20592451347495sl4.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://nontam.com' target='_blank'><img src='http://media.bizwebmedia.net/sites/95616/Upload/Gallery/20592451347495sl4.jpg' width='500px'/>May áo thun giá rẻ</a>. Sản xuất tại xưởng . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
